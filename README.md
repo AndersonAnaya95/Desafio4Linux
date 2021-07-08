@@ -27,7 +27,7 @@ O cenário do desafio é o versionamento de um tutorial. O tutorial está dividi
 
 ```
 
-Em cada pasta de aula contém um arquivo chamado _README.md_. Estes arquivos serão utilizados para armazenar o conteúdo de cada aula, e deverão estar no formato (Markdown)[https://www.markdownguide.org/basic-syntax/]. 
+Em cada pasta de aula contém um arquivo chamado _README.md_. Estes arquivos serão utilizados para armazenar o conteúdo de cada aula, e deverão estar no formato [Markdown](https://www.markdownguide.org/basic-syntax/). 
 
 Você deverá realizar as tarefas à seguir utilizando este repositório como base.
 
