@@ -22,7 +22,7 @@ Ronaldo Murilo, Fernanda Becker, Cristina Rangel, Juca Ferreira
 *	Previsão de carga horária para 60h. 
 *	**Incluir o seguinte fluxo de versionamento no curso:**
 
-![Fluxo de Versionamento](images/Figura1.PNG "Fluxo de Versionamento")
+![Fluxo de Versionamento](Images/Figura1.png "Fluxo de Versionamento")
 
 ## Ações
 
