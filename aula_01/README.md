@@ -22,14 +22,14 @@ Selecione a pasta onde o arquivo será instalado. É recomendado utilizar a past
 
 ## Etapa 4:
 
-Selecione os componentes que serão instalados. É recomendado instalar os componentes pré-selecionados pelo instalador, da mesma maneira da imagem à seguir. Caso Queira um atalho em sua Área de Trabalho, selecione também "Additional icons" e "On the Desktop".
+Selecione os componentes que serão instalados. É recomendado instalar os componentes pré-selecionados pelo instalador, da mesma maneira da imagem à seguir. Caso queira criar um atalho em sua Área de Trabalho, selecione também os ítens "Additional icons" e "On the Desktop".
 Clique em "Next" para prosseguir.
 
 ![Selecionando Componentes](images/03.PNG "Selecionando Componentes")
 
 ## Etapa 5:
 
-Selecione a pasta onde defem fiar os atalhos do programa. É recomendado utilizar a pasta padrão selecionada pelo próprio instalador.
+Selecione a pasta onde devem ficar os atalhos do programa. É recomendado utilizar a pasta padrão selecionada pelo próprio instalador.
 Clique em "Next" para prosseguir.
 
 ![Pasta para Atalhos](images/04.PNG "Pasta para Atalhos")
@@ -56,7 +56,7 @@ Selecione o caminho de seu ambiente. Para usuários comuns, a opção recomendad
 
 ## Etapa 9:
 
-Selecione qual biblioteca de SSL/TLS que você quer que o Git utilize para conecções HTTPS. É recomendado selecionar a opção "Use the OpenSSL library".
+Selecione qual biblioteca de SSL/TLS que você quer que o Git utilize para conexões HTTPS. É recomendado selecionar a opção "Use the OpenSSL library".
 
 ![Selecionando Biblioteca](images/08.PNG "Selecionando Biblioteca")
 
@@ -104,7 +104,7 @@ Clique em "install" e aguarde o processo de instalação.
 
 ## Etapa 16:
 
-Clique em "Finish" e finalize o processo de instalação do Git. Caso queira que o programa abra logo após finalizar este processo, selecionee a opção "Launch Git Bash".
+Clique em "Finish" e finalize o processo de instalação do Git. Caso queira que o programa seja inicializado logo após finalizar este processo, selecione a opção "Launch Git Bash".
 
 ![Finalizando](images/15.PNG "Finalizando")
 
