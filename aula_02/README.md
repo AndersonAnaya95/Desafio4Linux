@@ -35,7 +35,7 @@ Verificar andamento dos cursos:
 
 | Curso    | Autor | Status |
 | :-----------: | :-----------: | :-----------: |
-| Introdução a Versionamento de Código     | Pattricia Medeiros      | Em Andamento |
+| Introdução a Versionamento de Código     | Patrícia Medeiros      | Em Andamento |
 | Welcome to the Django   | Fernando        | Não Iniciado |
 | Linguagem SQL para Banco de Dados | Julio Fernandes | Em Revisão |
-| Linux Beginners in Cloud | Juca Ferreira | Concluido |
+| Linux Beginners in Cloud | Juca Ferreira | Concluído |
