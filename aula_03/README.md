@@ -1,5 +1,6 @@
 # Tutorial de Comandos Básicos do Git
 
+Todas as simulações de comandos básicos do Git apresentadas a seguir foram realizadas no programa Windows Powershell.
 
 ## Identidade:
 
@@ -24,7 +25,7 @@ Para verificar se seus comandos funcionaram, é possível utilizar o `git config
 ## Inicialização:
 
 
-Todos os comando abaixo devem ser feitos dentro do diretório do projeto.
+Todos os comandos abaixo devem ser feitos dentro do diretório do projeto.
 
 * git init
 
@@ -38,9 +39,9 @@ Todos os comando abaixo devem ser feitos dentro do diretório do projeto.
 
     `git remote add origin https://github.com/AndersonAnaya95/Teste.git`
     
-    ![git init e remote](images/02.PNG "git init e romote")
+    ![git init e remote](images/02.PNG "git init e remote")
     
-    Na imagem acima, primeiramente foi iniciado o git no repositório através do `git init` e após a inicialização foi iniciado o diretório local com o remoto.
+    Na imagem acima, primeiramente foi iniciado o Git no repositório através do `git init` e após essa inicialização, foi indicado o diretório remoto para origem através do `git remote`.
     
   * git clone
   
@@ -54,7 +55,7 @@ Todos os comando abaixo devem ser feitos dentro do diretório do projeto.
 
 * git add
 
-  Este comando seguido do identificador do arquivo adiciona o mesmo a fila para a realização do commit.
+  Este comando, seguido do identificador do arquivo, adiciona o mesmo à fila para a realização do commit.
 
     * git rm
   
@@ -74,11 +75,11 @@ Todos os comando abaixo devem ser feitos dentro do diretório do projeto.
       
       ![git push](images/03.PNG "git push")
       
-      Na imagem acima, após a execução do comando é apresentado um relatório exibindo o status da operação. No caso dessa imagem, ele exibe que o push foi realizado com sucesso e mostra a quantidade de alterações.
+      Na imagem acima, após a execução do comando, é apresentado um relatório exibindo o status da operação. No caso desta imagem, ele exibe que o push foi realizado com sucesso e mostra a quantidade de alterações.
   
     * git pull
   
-      Este comando solicita a atualização do diretório local puxando as informações do diretório remoto.
+      Este comando solicita a atualização do diretório local, puxando as informações do diretório remoto.
       
       Antes da realização do git pull:
       
@@ -111,5 +112,6 @@ Todos os comando abaixo devem ser feitos dentro do diretório do projeto.
       ![git log](images/git-log.PNG "git log")
       
       A imagem acima exibe os últimos commits realizados de forma abreviada.
-      Obs: o parâmetro `--oneline`é opcional e fou utilizado para reduzir o tamanho da imagem neste tutorial.
+      
+      O parâmetro `--oneline` é opcional e foi utilizado para reduzir o tamanho da imagem neste tutorial.
       
