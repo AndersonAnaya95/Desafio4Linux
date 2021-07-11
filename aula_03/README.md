@@ -1,6 +1,5 @@
 # Tutorial de Comandos Básicos do Git
 
-Todas as simulações de comandos básicos do Git apresentadas a seguir foram realizadas no programa Windows Powershell.
 
 ## Identidade:
 
@@ -75,7 +74,7 @@ Todos os comandos abaixo devem ser feitos dentro do diretório do projeto.
       
       ![git push](images/03.PNG "git push")
       
-      Na imagem acima, após a execução do comando, é apresentado um relatório exibindo o status da operação. No caso desta imagem, ele exibe que o push foi realizado com sucesso e mostra a quantidade de alterações.
+      Na imagem acima, após a execução do comando, é apresentado um relatório exibindo o status da operação. No caso desta imagem, o relatório exibe que o push foi realizado com sucesso e mostra a quantidade de alterações.
   
     * git pull
   
@@ -95,7 +94,7 @@ Todos os comandos abaixo devem ser feitos dentro do diretório do projeto.
       
       ![git pull](images/pull.PNG "git pull")
       
-      Na imagem acima é apresentado o status do repositório remoto em comparação com o repositório local (quantidade de arquivos diferentes entre os locais) e notifica a atualização do local.
+      Na imagem acima é apresentado o status do repositório remoto em relação ao repositório local (quantidade de arquivos diferentes entre os locais) e também é exibida uma notificação sobre a atualização do local.
 
 
 ## Inspeção:
